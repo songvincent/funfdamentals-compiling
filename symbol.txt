@@ -1,0 +1,8 @@
+isIn 函数
+State 声明
+Var 变量
+Num 常数
+Char 常数字符
+Calchar +-*/ 
+Judgechar ><=>=
+黑楼d1 103 105
